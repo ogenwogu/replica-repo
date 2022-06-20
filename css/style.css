@@ -1,0 +1,77 @@
+body {
+font-family: sans-serif;
+font-style: normal;
+font-weight: 100;
+}
+
+.stefan-prof {
+  width: 55%;
+  margin-left: 70px;
+}
+.top-container {
+padding-top: 60px;
+}
+
+.intro {
+  position: relative;
+  color: #374045;
+  left: 750px;
+  bottom: 600px;
+  text-align: left;
+  width: 40%;
+  font-size: 22px;
+}
+
+.link-text {
+  color: red;
+  font-size: 18px;
+  text-decoration: none;
+  margin: 10px 30px 10px 30px;
+}
+
+a:hover {
+  color: grey;
+}
+
+.middle-container {
+}
+
+.charles-eames {
+  color: #D6D2C4;
+  text-align: center;
+  font-size: 31px;
+  width: 50%;
+  margin: 0 auto 100px auto;
+  position: relative;
+}
+.c-e {font-size: 15px;
+}
+
+.profile {
+  width: 40%;
+  margin-left: 100px;
+  font-weight: lighter;
+
+}
+
+.contact1 {
+  width: 30%;
+  margin-left: 900px;
+  top: 1550px;
+  position: absolute;
+  font-weight: lighter;
+
+}
+
+.bottom-container {
+  background-color: #D6D2C4;
+  padding: 70px 20px 40px;
+}
+
+.link-text2 {
+  margin: 60px 120px;
+  color: #2D2424;
+  text-decoration: none;
+  font-size: 18px;
+  width: 50%;
+}
